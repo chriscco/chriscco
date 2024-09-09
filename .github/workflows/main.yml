@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 时间线
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "True"
           # OS
           SHOW_OS: "False"
           # 项目
@@ -24,3 +24,8 @@ jobs:
           SHOW_TIMEZONE: "False"
           # 编辑器
           SHOW_EDITORS: "False"
+          # 主页访问
+          SHOW_PROFILE_VIEWS: "False"
+          # GitHub Data
+          SHOW_SHORT_INFO: "False"
+          
