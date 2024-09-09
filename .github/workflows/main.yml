@@ -28,4 +28,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           # GitHub Data
           SHOW_SHORT_INFO: "False"
+          # Commits per day of week 
+          SHOW_DAYS_OF_WEEK: "False"
           
