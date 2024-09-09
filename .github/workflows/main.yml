@@ -23,4 +23,4 @@ jobs:
           # 时区
           SHOW_TIMEZONE: "False"
           # 编辑器
-          SHOW_EDITORS: "False
+          SHOW_EDITORS: "False"
