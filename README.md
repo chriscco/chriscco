@@ -26,7 +26,7 @@ Sunday                   71 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -42,5 +42,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2024 18:45:56 UTC
+ Last Updated on 18/12/2024 18:44:52 UTC
 <!--END_SECTION:waka-->
