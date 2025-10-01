@@ -1,18 +1,16 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs-blue)
-
 **I Mostly Code in C++** 
 
 ```text
-C++                      10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C++                      9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
 
 
- Last Updated on 30/09/2025 18:45:22 UTC
+ Last Updated on 01/10/2025 18:46:33 UTC
 <!--END_SECTION:waka-->
