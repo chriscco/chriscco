@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -26,7 +26,8 @@ Sunday                   154 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       5 mins              █████████████████████████   100.00 % 
+Go                       33 mins             █████████████████████████   99.71 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 
 **I Mostly Code in C++** 
@@ -42,5 +43,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2026 18:59:21 UTC
+ Last Updated on 29/01/2026 19:08:02 UTC
 <!--END_SECTION:waka-->
