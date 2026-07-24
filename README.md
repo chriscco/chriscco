@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C276%20hrs%2038%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -26,11 +24,11 @@ Sunday                   113 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs               ████████░░░░░░░░░░░░░░░░░   33.84 % 
-Go                       3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-JSON                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-YAML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.17 % 
+Go                       3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+JSON                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
 **I Mostly Code in C++** 
@@ -46,5 +44,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:54:41 UTC
+ Last Updated on 24/07/2026 19:54:12 UTC
 <!--END_SECTION:waka-->
