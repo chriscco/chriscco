@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C382%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C384%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-431%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-434%20hrs%2030%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -28,35 +28,35 @@ Sunday                   113 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 45 mins       ██████████████░░░░░░░░░░░   54.16 % 
-Go                       2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Markdown                 2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Other                    6 hrs 39 mins       █████████████░░░░░░░░░░░░   52.12 % 
+Markdown                 2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Go                       2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Protocol Buffer          41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 32 mins (59.65%)
+⏱ AI Coding Time: 9 hrs 17 mins (72.72%)
 
-✍️ 1,948 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 1,800 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,547,652 Input Tokens, 698,799 Output Tokens
+🔤 7,643,475 Input Tokens, 671,361 Output Tokens
 
-💵 $102.76 Estimated AI Cost This Week
+💵 $91.64 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 126 AI Prompts
+🧠 19 AI Sessions, 118 AI Prompts
 
-GPT                      1,165 lines         ██████████████░░░░░░░░░░░   54.69 % 
-Sonnet                   965 lines           ███████████░░░░░░░░░░░░░░   45.31 % 
+GPT                      928 lines           █████████████░░░░░░░░░░░░   50.35 % 
+Sonnet                   915 lines           ████████████░░░░░░░░░░░░░   49.65 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📝 Concise Prompter — average 350 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 173 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -72,5 +72,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:09:22 UTC
+ Last Updated on 25/08/2026 19:07:36 UTC
 <!--END_SECTION:waka-->
