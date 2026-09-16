@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C711%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C715%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-608%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-614%20hrs%2058%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -28,49 +28,48 @@ Sunday                   113 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    28 hrs 56 mins      ██████████████░░░░░░░░░░░   57.46 % 
-Markdown                 11 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Swift                    2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-YAML                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Python                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Other                    29 hrs 27 mins      ███████████████░░░░░░░░░░   58.17 % 
+Markdown                 10 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Swift                    2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+YAML                     2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Rust                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 44 mins (47.15%)
+⏱ AI Coding Time: 25 hrs 11 mins (49.72%)
 
-✍️ 5,641 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 6,689 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 9,277,240 Input Tokens, 1,348,402 Output Tokens
+🔤 9,793,603 Input Tokens, 1,618,361 Output Tokens
 
-💵 $129.44 Estimated AI Cost This Week
+💵 $118.92 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 391 AI Prompts
+🧠 43 AI Sessions, 433 AI Prompts
 
-Sonnet                   2,057 lines         ██████████████████████░░░   86.83 % 
-GPT                      293 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Deepseek                 19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Sonnet                   2,597 lines         ████████████████████░░░░░   81.87 % 
+GPT                      575 lines           █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 602 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 1,051 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-Go                       4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C++                      6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Go                       4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 15/09/2026 21:35:05 UTC
+ Last Updated on 16/09/2026 21:30:46 UTC
 <!--END_SECTION:waka-->
