@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C814%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C816%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-758%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-760%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -28,37 +28,37 @@ Sunday                   209 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    31 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.93 % 
-Markdown                 26 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   36.20 % 
-Swift                    7 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Go                       2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Diff                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Markdown                 25 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   39.26 % 
+Other                    24 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   38.56 % 
+Swift                    7 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Diff                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Go                       2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 53 mins (74.53%)
+⏱ AI Coding Time: 49 hrs (76.15%)
 
-✍️ 16,599 lines written by AI, 4 lines written by hand (99.98% AI-written)
+✍️ 12,962 lines written by AI, 4 lines written by hand (99.97% AI-written)
 
-🔤 50,104,649 Input Tokens, 6,099,596 Output Tokens
+🔤 48,629,630 Input Tokens, 5,458,939 Output Tokens
 
-💵 $2401.98 Estimated AI Cost This Week
+💵 $2246.30 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 504 AI Prompts
+🧠 107 AI Sessions, 485 AI Prompts
 
-ZCode                    8,579 lines         ██████████████████████░░░   89.85 % 
-DeepSeek                 470 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-GPT                      462 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-GLM                      37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+ZCode                    6,208 lines         ██████████████████████░░░   88.72 % 
+DeepSeek                 501 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+GPT                      251 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+GLM                      37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 727 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 738 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -74,5 +74,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 20:57:08 UTC
+ Last Updated on 19/10/2026 22:32:56 UTC
 <!--END_SECTION:waka-->
