@@ -29,6 +29,23 @@ jobs:
           cache-dependency-path: generator/requirements.txt
       - run: pip install -r requirements.txt
         working-directory: generator
+      - name: Diagnose Gitea connection
+        env:
+          GITEA_URL: ${{ vars.GITEA_API_URL }}
+        run: |
+          python - <<'PYCODE'
+          import os, socket, urllib.request, urllib.error
+          from urllib.parse import urlsplit
+          url = os.environ['GITEA_URL']
+          host = urlsplit(url).hostname
+          try:
+              print('DNS:', sorted({r[4][0] for r in socket.getaddrinfo(host,443)}))
+              with urllib.request.urlopen(url.rstrip('/')+'/api/v1/version',timeout=15) as response:
+                  print('Unauthenticated HTTPS status:',response.status)
+          except Exception as error:
+              print(type(error).__name__, str(error))
+              raise SystemExit(1)
+          PYCODE
       - name: Generate and publish profile statistics
         working-directory: generator
         env:
