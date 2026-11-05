@@ -3,7 +3,7 @@
 
 **Coding Activity**
 
-![Coding Activity chart](https://raw.githubusercontent.com/chriscco/chriscco/main/assets/coding-heatmap.svg)
+![Coding Activity chart](https://raw.githubusercontent.com/chriscco/chriscco/main/assets/coding-heatmap.svg?v=ae7e7148bfe2)
 
 **I'm an Early 🐤** 
 
