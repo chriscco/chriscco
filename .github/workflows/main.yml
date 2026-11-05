@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v7
         with:
           repository: ${{ github.repository_owner }}/waka-readme-stats
-          ref: 236bf0f7d9de1b4f223522f663cec13295852377
+          ref: 2fba35e9e4b20be8663dcb6cf1dadc82bb57289d
           path: generator
           persist-credentials: false
       - uses: actions/setup-python@v6
