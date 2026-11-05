@@ -1,33 +1,57 @@
-name: Waka Readme
+name: Personal coding stats
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '30 18 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: personal-coding-stats
+  cancel-in-progress: false
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: actions/checkout@v7
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # 时间线
-          SHOW_LOC_CHART: "False"
-          # OS
-          SHOW_OS: "False"
-          # 项目
-          SHOW_PROJECTS: "False"
-          # 时区
-          SHOW_TIMEZONE: "False"
-          # 编辑器
-          SHOW_EDITORS: "False"
-          # 主页访问
-          SHOW_PROFILE_VIEWS: "False"
-          # GitHub Data
-          SHOW_SHORT_INFO: "False"
-          # Commits per day of week 
-          SHOW_DAYS_OF_WEEK: "True"
-          
+          repository: ${{ github.repository_owner }}/waka-readme-stats
+          ref: 236bf0f7d9de1b4f223522f663cec13295852377
+          path: generator
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: generator/requirements.txt
+      - run: pip install -r requirements.txt
+        working-directory: generator
+      - name: Generate and publish profile statistics
+        working-directory: generator
+        env:
+          INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          INPUT_GH_USER: ${{ github.repository_owner }}
+          INPUT_PUSH_TOKEN: ${{ github.token }}
+          INPUT_WAKATIME_API_URL: ${{ vars.CODING_API_URL }}
+          INPUT_WAKATIME_API_KEY: ${{ secrets.CODING_API_KEY }}
+          INPUT_SHOW_CODING_HEATMAP: 'True'
+          INPUT_SHOW_LANGUAGE: 'True'
+          INPUT_SHOW_EDITORS: 'True'
+          INPUT_SHOW_TOTAL_CODE_TIME: 'True'
+          INPUT_SHOW_AI_CODE_TIME: 'False'
+          INPUT_SHOW_AI_CODING: 'False'
+          INPUT_SHOW_PROJECTS: 'False'
+          INPUT_SHOW_OS: 'False'
+          INPUT_SHOW_TIMEZONE: 'False'
+          INPUT_SHOW_COMMIT: 'False'
+          INPUT_SHOW_DAYS_OF_WEEK: 'False'
+          INPUT_SHOW_LANGUAGE_PER_REPO: 'False'
+          INPUT_SHOW_LINES_OF_CODE: 'False'
+          INPUT_SHOW_LOC_CHART: 'False'
+          INPUT_SHOW_PROFILE_VIEWS: 'False'
+          INPUT_SHOW_SHORT_INFO: 'False'
+          INPUT_FORCE_ADD: 'True'
+        run: python sources/main.py
