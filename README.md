@@ -30,10 +30,10 @@ Sunday                   233 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Historical detail unavail66 hrs 36 mins      █████████████████████████   100.00 % 
+History (no details)     66 hrs 36 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Historical detail unavail66 hrs 36 mins      █████████████████████████   100.00 % 
+History (no details)     66 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
