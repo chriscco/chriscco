@@ -33,8 +33,6 @@ jobs:
         working-directory: generator
         env:
           INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          INPUT_GITEA_API_URL: ${{ vars.GITEA_API_URL }}
-          INPUT_GITEA_API_TOKEN: ${{ secrets.GITEA_API_TOKEN }}
           INPUT_GH_USER: ${{ github.repository_owner }}
           INPUT_PUSH_TOKEN: ${{ github.token }}
           INPUT_WAKATIME_API_URL: ${{ vars.CODING_API_URL }}
