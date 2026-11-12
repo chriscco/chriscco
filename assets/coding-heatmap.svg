@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 174" role="img" aria-labelledby="title description">
-<title id="title">Coding activity: 2025-11-12 to 2026-11-11</title>
+<title id="title">Coding activity: 2025-11-13 to 2026-11-12</title>
 <desc id="description">Daily coding time in Asia/Shanghai for 365 dates. Green levels: zero, under 30 minutes, under 2 hours, under 4 hours, and 4 or more hours. Each date has a time label.</desc>
 <style>
 @media (prefers-color-scheme: dark) {
@@ -13,9 +13,8 @@
 </style>
 <g font-family="system-ui,sans-serif" font-size="10" fill="#24292f">
 <text x="12" y="62">Mon</text><text x="12" y="88">Wed</text><text x="12" y="114">Fri</text>
-<rect class="level-4" data-date="2025-11-12" x="44" y="79" width="10" height="10" rx="2" fill="#216e39"><title>2025-11-12: 5 hrs 1 mins</title></rect>
-<text x="44" y="30">Nov</text>
 <rect class="level-2" data-date="2025-11-13" x="44" y="92" width="10" height="10" rx="2" fill="#40c463"><title>2025-11-13: 37 mins</title></rect>
+<text x="44" y="30">Nov</text>
 <rect class="level-0" data-date="2025-11-14" x="44" y="105" width="10" height="10" rx="2" fill="#ebedf0"><title>2025-11-14: 0 secs</title></rect>
 <rect class="level-2" data-date="2025-11-15" x="44" y="118" width="10" height="10" rx="2" fill="#40c463"><title>2025-11-15: 47 mins</title></rect>
 <rect class="level-1" data-date="2025-11-16" x="57" y="40" width="10" height="10" rx="2" fill="#9be9a8"><title>2025-11-16: 0 secs</title></rect>
@@ -389,7 +388,8 @@
 <rect class="level-0" data-date="2026-11-07" x="707" y="118" width="10" height="10" rx="2" fill="#ebedf0"><title>2026-11-07: 0 secs</title></rect>
 <rect class="level-2" data-date="2026-11-08" x="720" y="40" width="10" height="10" rx="2" fill="#40c463"><title>2026-11-08: 38 mins</title></rect>
 <rect class="level-4" data-date="2026-11-09" x="720" y="53" width="10" height="10" rx="2" fill="#216e39"><title>2026-11-09: 11 hrs 22 mins</title></rect>
-<rect class="level-4" data-date="2026-11-10" x="720" y="66" width="10" height="10" rx="2" fill="#216e39"><title>2026-11-10: 11 hrs 1 mins</title></rect>
-<rect class="level-0" data-date="2026-11-11" x="720" y="79" width="10" height="10" rx="2" fill="#ebedf0"><title>2026-11-11: 0 secs</title></rect>
+<rect class="level-4" data-date="2026-11-10" x="720" y="66" width="10" height="10" rx="2" fill="#216e39"><title>2026-11-10: 11 hrs 43 mins</title></rect>
+<rect class="level-4" data-date="2026-11-11" x="720" y="79" width="10" height="10" rx="2" fill="#216e39"><title>2026-11-11: 7 hrs 27 mins</title></rect>
+<rect class="level-0" data-date="2026-11-12" x="720" y="92" width="10" height="10" rx="2" fill="#ebedf0"><title>2026-11-12: 0 secs</title></rect>
 <text x="565" y="157">Less</text><rect class="level-0" x="595" y="148" width="10" height="10" rx="2" fill="#ebedf0"/><rect class="level-1" x="608" y="148" width="10" height="10" rx="2" fill="#9be9a8"/><rect class="level-2" x="621" y="148" width="10" height="10" rx="2" fill="#40c463"/><rect class="level-3" x="634" y="148" width="10" height="10" rx="2" fill="#30a14e"/><rect class="level-4" x="647" y="148" width="10" height="10" rx="2" fill="#216e39"/><text x="665" y="157">More</text>
 </g></svg>
